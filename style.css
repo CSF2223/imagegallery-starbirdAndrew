@@ -5,3 +5,35 @@ font color:
 secondary color:   
 tertiary color:    
 */
+
+/* css synthx notes:
+selector {property: value; }
+*/
+
+body 
+margin: 0;
+
+
+header {
+    background-color:Blue;
+margin: 0;
+    
+}
+
+h1 {
+    background-color: crimson;
+margin: 0;
+    
+}
+
+h4 {
+    background-color: lightgreen;
+margin: 0;
+    
+}
+
+h6 {
+    background-color: yellow;
+margin: 0;
+    
+}
